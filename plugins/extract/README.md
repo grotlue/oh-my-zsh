@@ -19,6 +19,7 @@ plugins=(... extract)
 | `7z`              | 7zip file                            |
 | `Z`               | Z archive (LZW)                      |
 | `apk`             | Android app file                     |
+| `aar`             | Android library file                 |
 | `bz2`             | Bzip2 file                           |
 | `deb`             | Debian package                       |
 | `gz`              | Gzip file                            |
@@ -26,6 +27,7 @@ plugins=(... extract)
 | `jar`             | Java Archive                         |
 | `lzma`            | LZMA archive                         |
 | `rar`             | WinRAR archive                       |
+| `rpm`             | RPM package                          |
 | `sublime-package` | Sublime Text package                 |
 | `tar`             | Tarball                              |
 | `tar.bz2`         | Tarball with bzip2 compression       |
